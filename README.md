@@ -1,6 +1,12 @@
 # kitty.conf
 My setup kitty terminal
 ```sh
+enabled_layouts splits
+map ctrl+shift+enter launch --location=vsplit
+map ctrl+shift+\ launch --location=vsplit
+map ctrl+shift+- launch --location=hsplit
+
+
 # Redimensionar el panel horizontalmente
 map ctrl+] resize_window narrower 1
 map ctrl+[ resize_window wider 1
@@ -16,6 +22,5 @@ map ctrl+t set_tab_title
 map ctrl+h previous_window
 # Cambiar al siguiente panel
 map ctrl+l next_window
-
 
 ```
