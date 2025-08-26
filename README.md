@@ -26,10 +26,10 @@ map ctrl+l next_window
 dynamic_background_opacity yes
 
 # Aumentar opacidad (más sólido)
-map ctrl+shift+up    set_background_opacity +0.05
+map ctrl+shift+k    set_background_opacity +0.05
 
 # Disminuir opacidad (más transparente)
-map ctrl+shift+down  set_background_opacity -0.05
+map ctrl+shift+j  set_background_opacity -0.05
 
 # Resetear opacidad al valor por defecto
 map ctrl+shift+0    set_background_opacity 0.90
