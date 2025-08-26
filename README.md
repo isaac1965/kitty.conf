@@ -35,4 +35,11 @@ map ctrl+shift+j  set_background_opacity -0.05
 map ctrl+shift+0    set_background_opacity 0.90
 
 
+# Scroll hacia arriba una línea
+map ctrl+shift+h     scroll_line_up
+
+# Scroll hacia abajo una línea
+map ctrl+shift+l     scroll_line_down
+
+
 ```
