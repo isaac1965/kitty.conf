@@ -22,7 +22,7 @@ map ctrl+t set_tab_title
 map ctrl+h previous_window
 # Cambiar al siguiente panel
 map ctrl+l next_window
-====================================
+# ====================================
 dynamic_background_opacity yes
 
 # Aumentar opacidad (más sólido)
