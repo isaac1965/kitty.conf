@@ -1,3 +1,4 @@
+![kitty logo](https://i.imgur.com/JkciDIP.png)
 # kitty.conf
 My setup kitty terminal
 ```sh
