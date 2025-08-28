@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/JkciDIP.png" width=10 >
+<img src="https://i.imgur.com/JkciDIP.png" width=20 >
 
 # kitty.conf
 My setup kitty terminal
