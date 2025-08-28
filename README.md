@@ -1,4 +1,4 @@
-![kitty logo](https://i.imgur.com/JkciDIP.png)
+<img src="https://i.imgur.com/JkciDIP.png" widty=40>
 # kitty.conf
 My setup kitty terminal
 ```sh
