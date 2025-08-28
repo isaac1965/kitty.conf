@@ -1,5 +1,6 @@
-<img src="https://i.imgur.com/JkciDIP.png" width=100>
-
+<p align="center">
+  <img src="https://i.imgur.com/JkciDIP.png" width=100>
+</p>
 # kitty.conf
 My setup kitty terminal
 ```sh
